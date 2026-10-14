@@ -10,3 +10,5 @@ memories.json
 *.txt
 *.md
 start.bat
+.cursor/
+.playwright-mcp/
